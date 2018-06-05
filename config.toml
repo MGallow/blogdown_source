@@ -1,0 +1,73 @@
+## Basic Configuration
+
+baseurl = "https://mgallow.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "../MGallow.github.io"
+
+author = "Matt Galloway"
+title = "Matt Galloway, University of Minnesota"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-84680750-2"
+#enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Matt Galloway"
+intro = "Statistics PhD student <br> at the University of Minnesota"
+description = "350 Ford Hall <br> 225 Church St. SE <br> Minneapolis, MN 55455"
+authorimage = "githubiophoto.jpg"
+dateformat = "June 5, 2018"
+
+## Site Meta Settings
+[params.meta]
+description = "Matt Galloway, University of Minnesota"
+keywords = "Statistics, Matt, Galloway, Github, Minnesota"
+
+## Social Accounts
+[params.social]
+github = "MGallow"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "mattgalloway2"
+twitter = "MCGallow"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "gall0441@umn.edu"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Matt Galloway. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "Education"
+    identifier = "Education"
+    weight = 100
+    url = "/Education/"
+[[menu.main]]
+    name = "Publications"
+    identifier = "Publications"
+    weight = 200
+    url = "/Publications/"
+[[menu.main]]
+    name = "Research"
+    identifier = "Research"
+    weight = 300
+    url = "/Research/"
+[[menu.main]]
+    name = "Posts"
+    weight = 400
+    identifier = "Posts"
+    url = "/Posts/"
