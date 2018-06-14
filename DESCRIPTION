@@ -1,0 +1,6 @@
+Package: MGallow
+Type: Website
+Title: MGallow
+Version: 0.0.1
+Imports: blogdown
+Remotes: MGallow/blogdown_source

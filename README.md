@@ -1,16 +1,8 @@
-# Hugo Goa Demo
+# Personal Website
 
-## About
 
-This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
+This is the source code (slightly modified) for my personal website which you can find [here](http://users.stat.umn.edu/~gall0441/) or [here](https://mgallow.github.io/). Note that I have excluded several images and documents from the "images" repository.
 
-## Usage
+You are welcome to clone this repository and tweak the code to your liking.
 
-* Install [Hugo](gohugo.io)
-* git clone https://github.com/shenoybr/hugo-goa-demo
-* Run `hugo server -w -v` from the root directory
-* Site will be visible at `localhost:1313`
-
-## License
-
-Licensed under the [MIT](https://opensource.org/licenses/MIT) License. See the [LICENSE](https://raw.githubusercontent.com/shenoybr/hugo-goa-demo/master/LICENSE) file for more details.
+The website was built with [blogdown](https://bookdown.org/yihui/blogdown/) and the [Hugo](https://gohugo.io/) & [Goa](https://github.com/shenoybr/hugo-goa) theme.

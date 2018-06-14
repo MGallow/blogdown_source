@@ -1,0 +1,40 @@
+language: r
+dist: trusty
+sudo: false
+
+branches:
+  only:
+    - master
+
+# cache local changes    
+cache:
+  packages: yes
+  directories:
+    - $HOME/bin
+
+# install hugo    
+before_script:
+  - "Rscript -e 'blogdown::install_hugo()'"
+
+# build site
+script:
+  - "Rscript -e 'blogdown::build_site()'"
+
+# deploy site to master branch of github.io 
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+  local_dir: public
+  keep-history: true
+  allow-empty-commit: false
+  repo: MGallow/MGallow.github.io
+  target-branch: master
+
+# send email if any changes
+notifications:
+  email:
+    on_success: change
+    on_failure: change

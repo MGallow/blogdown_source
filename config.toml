@@ -4,10 +4,11 @@ baseurl = "https://mgallow.github.io/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "../MGallow.github.io"
+#publishdir = "../MGallow.github.io"
 
 author = "Matt Galloway"
 title = "Matt Galloway, University of Minnesota"
@@ -17,20 +18,20 @@ theme = "hugo-goa"
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "UA-84680750-2"
-#enableRobotsTXT = true
+enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Matt Galloway"
-intro = "Statistics PhD student <br> at the University of Minnesota"
-description = "350 Ford Hall <br> 225 Church St. SE <br> Minneapolis, MN 55455"
-authorimage = "githubiophoto.jpg"
+intro = "Statistics Ph.D Student"
+description = "University of Minnesota <br/> Minneapolis, MN"
+authorimage = "headshot.jpg"
 dateformat = "June 5, 2018"
 
 ## Site Meta Settings
 [params.meta]
-description = "Matt Galloway, University of Minnesota"
-keywords = "Statistics, Matt, Galloway, Github, Minnesota"
+description = "Matt Galloway"
+keywords = "Matt, Galloway, Minnesota, University, Statistics"
 
 ## Social Accounts
 [params.social]
@@ -52,22 +53,22 @@ highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "Education"
-    identifier = "Education"
+    name = "About"
+    identifier = "about"
     weight = 100
-    url = "/Education/"
+    url = "/about/"
 [[menu.main]]
     name = "Publications"
-    identifier = "Publications"
-    weight = 200
-    url = "/Publications/"
+    weight = 300
+    identifier = "publications"
+    url = "/publications/"
 [[menu.main]]
     name = "Research"
-    identifier = "Research"
-    weight = 300
-    url = "/Research/"
+    weight = 400
+    identifier = "research"
+    url = "/research/"
 [[menu.main]]
     name = "Posts"
-    weight = 400
-    identifier = "Posts"
-    url = "/Posts/"
+    weight = 600
+    identifier = "posts"
+    url = "/posts/"

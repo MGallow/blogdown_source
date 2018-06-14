@@ -1,0 +1,50 @@
+---
+categories:
+- about
+comments: false
+draft: false
+showpagemeta: false
+slug: ""
+tags:
+- about
+title: About
+---
+
+I am a PhD student at the [University of Minnesota](http://www.stat.umn.edu/). In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance.
+
+
+# Education
+
+**Ph.D. Student**, [School of Statistics](http://www.stat.umn.edu/), *University of Minnesota*, 2015 - Present.
+
+**B.S.**, **B.A.**, Statistics, Mathematics, Actuarial Science, [*University of St. Thomas*](https://www.stthomas.edu/)
+
+Actuarial Science, [*Heriot-Watt University*](margin-bottom: 20px;), Scotland, 2014.
+
+<br>
+
+[**Resume**](images/WebsiteResume.pdf). [**CV**](images/CV.pdf).
+
+
+# Teaching
+
+List of teaching assistantships:
+
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+
+
+<div class="col2">
+- STAT 1001 (Fall 2015)
+- STAT 3032 (Spring 2016)
+- STAT 3032 (Fall 2016)
+- STAT 4893W (Spring 2017)
+- IRSA Consultant (Fall 2017)
+- STAT 8052 (Spring 2018)
+</div>
