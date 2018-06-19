@@ -10,7 +10,7 @@ tags:
 title: About
 ---
 
-I am a PhD student at the [University of Minnesota](http://www.stat.umn.edu/). In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance.
+I am a PhD student at the [University of Minnesota](http://www.stat.umn.edu/). In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance. My current research is broadly related to efficient precision matrix estimation under the supervision of [Adam J. Rothman](http://users.stat.umn.edu/~arothman/), Ph.D.
 
 
 # Education
