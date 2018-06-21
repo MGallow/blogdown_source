@@ -53,11 +53,10 @@ A personal R package that I have created for organization/convenience purposes.
 
 
 <div class="col2">
-- [statr](https://mgallow.github.io/statr/)
+- [indirect regression](images/Indirect.pdf)
 - [openfMRI Prediction](images/Openfmri_Voxel_Activity_Prediction.pdf)
 - [STEM](images/Poster.pdf)
 - [kernel methods](images/kernel.pdf)
-- [indirect regression](images/Indirect.pdf)
 </div>
 
 
