@@ -29,7 +29,7 @@ Estimates a penalized precision matrix via block-wise coordinate descent -- also
 
 ### [SCPME](https://mgallow.github.io/SCPME/)
 
-An implementation of the methods described in "Shrinking Characteristics of Precision Matrix Estimators" [pdf](https://arxiv.org/pdf/1704.04820.pdf) by Aaron J. Molstad, Ph.D and Adam J. Rothman, Ph.D.
+An implementation of the methods described in "Shrinking Characteristics of Precision Matrix Estimators" [pdf](https://doi.org/10.1093/biomet/asy023) by Aaron J. Molstad, Ph.D and Adam J. Rothman, Ph.D.
 
 ### [CVglasso](https://mgallow.github.io/CVglasso/)
 
