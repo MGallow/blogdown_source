@@ -19,9 +19,9 @@ My research interests include statistical machine learning, multivariate analysi
 
 Estimates a penalized precision matrix via the alternating direction method of multipliers (ADMM) algorithm.
 
-### [Omega](https://mgallow.github.io/Omega/)
+<!-- ### [Omega](https://mgallow.github.io/Omega/) -->
 
-Estimates a penalized precision matrix via various estimation methods. OMEGA combines ADMMsigma and GLASSOO (along with other estimation methods) into a complete package.
+<!-- Estimates a penalized precision matrix via various estimation methods. OMEGA combines ADMMsigma and GLASSOO (along with other estimation methods) into a complete package. -->
 
 ### [GLASSOO](https://mgallow.github.io/GLASSOO/)
 
