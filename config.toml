@@ -47,7 +47,7 @@ email = "gall0441@umn.edu"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Matt Galloway. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018. Matt Galloway. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
