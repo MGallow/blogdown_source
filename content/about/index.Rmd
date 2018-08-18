@@ -21,9 +21,7 @@ I am a PhD student at the [University of Minnesota](https://cla.umn.edu/statisti
 
 Actuarial Science, [*Heriot-Watt University*](margin-bottom: 20px;), Scotland, 2014.
 
-<br>
-
-[**Resume**](images/WebsiteResume.pdf). [**CV**](images/CV.pdf).
+[**RESUME**](images/WebsiteResume.pdf). [**CV**](images/CV.pdf).
 
 
 # Teaching
@@ -43,6 +41,7 @@ Graduate instructor:
 - STAT 3011 (Fall 2018)
 </div>
 
+<br>
 
 Teaching assistantships:
 
