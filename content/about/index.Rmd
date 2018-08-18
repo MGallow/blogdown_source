@@ -28,7 +28,23 @@ Actuarial Science, [*Heriot-Watt University*](margin-bottom: 20px;), Scotland, 2
 
 # Teaching
 
-List of teaching assistantships:
+Graduate instructor:
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+
+
+<div class="col2">
+- STAT 3011 (Fall 2018)
+</div>
+
+
+Teaching assistantships:
 
 
 <style>
