@@ -11,7 +11,7 @@ layoutdir = "layouts"
 #publishdir = "../MGallow.github.io"
 
 author = "Matt Galloway"
-title = "Matt Galloway, University of Minnesota"
+title = "Matt Galloway"
 
 theme = "hugo-goa"
 
@@ -23,15 +23,15 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Matt Galloway"
-intro = "Statistics Ph.D Student"
-description = "University of Minnesota <br/> Minneapolis, MN"
+intro = "Data Scientist"
+description = "Minneapolis, MN"
 authorimage = "headshot.jpg"
 dateformat = "June 5, 2018"
 
 ## Site Meta Settings
 [params.meta]
 description = "Matt Galloway"
-keywords = "Matt, Galloway, Minnesota, University, Statistics"
+keywords = "Matt, Galloway, Minnesota, Minneapolis, Data, Science, Statistics"
 
 ## Social Accounts
 [params.social]

@@ -10,14 +10,18 @@ tags:
 title: About
 ---
 
-I am a PhD student at the [University of Minnesota](https://cla.umn.edu/statistics). In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance. My research is currently supervised by [Adam J. Rothman](http://users.stat.umn.edu/~arothman/), Ph.D. and broadly relates to efficient precision matrix estimation.
+Previously a consultant at the Institute for Research on Statistics and its Applications (IRSA) at the University of Minnesota. Currently working as a freelance data scientist in the Twin Cities area.
+
+I was previously a Ph.D. student in statistics at the [University of Minnesota](https://cla.umn.edu/statistics). My research was advised by [Adam J. Rothman](http://users.stat.umn.edu/~arothman/), Ph.D. and broadly related to efficient precision matrix estimation.
+
+In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance.
 
 
 # Education
 
-**Ph.D. Student**, [School of Statistics](https://cla.umn.edu/statistics), *University of Minnesota*, 2015 - Present.
+**M.S.**, [School of Statistics](https://cla.umn.edu/statistics), *University of Minnesota*, 2019.
 
-**B.S.**, **B.A.**, Statistics, Mathematics, Actuarial Science, [*University of St. Thomas*](https://www.stthomas.edu/)
+**B.S.**, **B.A.**, Statistics, Mathematics, Actuarial Science, [*University of St. Thomas*], 2015.
 
 Actuarial Science, [*Heriot-Watt University*](margin-bottom: 20px;), Scotland, 2014.
 
