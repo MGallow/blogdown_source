@@ -10,11 +10,11 @@ tags:
 title: About
 ---
 
-Previously a consultant at the Institute for Research on Statistics and its Applications (IRSA) at the University of Minnesota. Currently working as a freelance data scientist in the Twin Cities area.
-
-I was previously a Ph.D. student in statistics at the [University of Minnesota](https://cla.umn.edu/statistics). My research was advised by [Adam J. Rothman](http://users.stat.umn.edu/~arothman/), Ph.D. and broadly related to efficient precision matrix estimation.
+Previously a consultant at the Institute for Research on Statistics and its Applications (IRSA) and Ph.D. student in statistics at the [University of Minnesota](https://cla.umn.edu/statistics). My research was advised by [Adam J. Rothman](http://users.stat.umn.edu/~arothman/), Ph.D. and broadly related to efficient precision matrix estimation.
 
 In May 2015, I received my B.S. and B.A. from the [University of St. Thomas, St. Paul](https://www.stthomas.edu/). I majored in statistics, mathematics, and actuarial science and minored in renaissance.
+
+Please check out my [LinkedIn](https://www.linkedin.com/in/mattgalloway2/) for updates on my work experience.
 
 
 # Education
