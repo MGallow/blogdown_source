@@ -26,8 +26,8 @@ In May 2015, I received my B.S. and B.A. from the University of St. Thomas, St.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mgallow.github.io/publications/</guid>
-      <description>Galloway, M, Johnson, A., and Shemyakin, A. (2017). Time-to-Default Analysis of Mortgage Portfolios. Model Assisted Statistics and Applications 12.4 (2017): 359-367. [pdf]
-“Mortgage defaults played a critical role in the recent (2008) financial crisis. Accordingly, the practice and foundations of subprime lending have received great attention in the literature. Crucial to these conversations is an understanding of the inherent risk in subprime lending. The following is an attempt to model the time-to-default (risk) of various mortgage cohorts using contemporary statistical modeling methods and two competing models.</description>
+      <description>Galloway, M, and Rothman, A. (2019). Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression. Master’s thesis (preprint). [pdf]
+“In their 2017 paper, Shrinking Characteristics of Precision Matrix Estimators, Molstad and Rothman propose a framework to shrink a user-specified precision matrix characteristic needed to fit a predictive model. Inspired by Fisher’s LDA and its unique classification characteristic, this framework also has applications to multivariate regression and allows for many novel precision matrix estimators.</description>
     </item>
     
     <item>
