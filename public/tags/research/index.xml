@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Matt Galloway</title>
+    <link>https://mgallow.github.io/tags/research/</link>
+    <description>Recent content in Research on Matt Galloway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://mgallow.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://mgallow.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgallow.github.io/research/</guid>
+      <description>My research interests include statistical machine learning, multivariate analysis, precision matrix estimation, sufficient dimension reduction, and kernel methods (among others).
+R Packages ADMMsigma Estimates a penalized precision matrix via the alternating direction method of multipliers (ADMM) algorithm.
+ GLASSOO Estimates a penalized precision matrix via block-wise coordinate descent – also known as the graphical lasso (glasso) algorithm.
+ SCPME An implementation of the methods described in “Shrinking Characteristics of Precision Matrix Estimators” pdf by Aaron J.</description>
+    </item>
+    
+  </channel>
+</rss>

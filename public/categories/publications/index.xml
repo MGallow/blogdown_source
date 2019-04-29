@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Matt Galloway</title>
+    <link>https://mgallow.github.io/categories/publications/</link>
+    <description>Recent content in Publications on Matt Galloway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://mgallow.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mgallow.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgallow.github.io/publications/</guid>
+      <description>Galloway, M, and Rothman, A. (2019). Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression. Master’s thesis (preprint). [pdf]
+“In their 2017 paper, Shrinking Characteristics of Precision Matrix Estimators, Molstad and Rothman propose a framework to shrink a user-specified precision matrix characteristic needed to fit a predictive model. Inspired by Fisher’s LDA and its unique classification characteristic, this framework also has applications to multivariate regression and allows for many novel precision matrix estimators.</description>
+    </item>
+    
+  </channel>
+</rss>
