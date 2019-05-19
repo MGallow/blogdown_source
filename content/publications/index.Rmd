@@ -11,7 +11,7 @@ title: Publications
 ---
 
 
-**Galloway, M**, and Rothman, A. (2019). [Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression](http://mattxgalloway.com/oral_manuscript/). Master's thesis (preprint). [[pdf](http://mattxgalloway.com/oral_manuscript/Manuscript.pdf)]
+**Galloway, M**, and Rothman, A. (2019). [Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression](http://mattxgalloway.com/oral_manuscript/). Master's Thesis (preprint). [[pdf](http://mattxgalloway.com/oral_manuscript/Manuscript.pdf)]
 
 #### *"In their 2017 paper, Shrinking Characteristics of Precision Matrix Estimators, Molstad and Rothman propose a framework to shrink a user-specified precision matrix characteristic needed to fit a predictive model. Inspired by Fisher's LDA and its unique classification characteristic, this framework also has applications to multivariate regression and allows for many novel precision matrix estimators. In this research, we outline the estimation methods and show that these new estimators can outperform lasso regression, ridge regression, and other more popular competing methods in high dimensional settings. As a result of this work, two packages (ADMMsigma and SCPME) have since been published to CRAN and they will be briefly mentioned."*
 
@@ -22,11 +22,11 @@ title: Publications
 
 ## Software
 
-**Galloway, M.** (2018). CVglasso: Cross validation package for the popular *glasso* package. R package, https://cran.r-project.org/web/packages/CVglasso/index.html.
+**Galloway, M.** (2018). CVglasso: Cross Validation Package for the Popular *glasso* Package. R Package, https://cran.r-project.org/web/packages/CVglasso/index.html.
 
 #### *"CVglasso is an R package that estimates a lasso-penalized precision matrix via block-wise coordinate descent – also known as the graphical lasso (glasso) algorithm. This package is a simple wrapper around the popular glasso package and extends and enhances its capabilities. These enhancements include built-in cross validation and visualizations."*
 
-**Galloway, M.** (2018). ADMMsigma: Estimates a penalized precision matrix via the ADMM algorithm. R package, https://cran.r-project.org/web/packages/ADMMsigma/index.html.
+**Galloway, M.** (2018). ADMMsigma: Estimates a Penalized Precision Matrix via the ADMM Algorithm. R Package, https://cran.r-project.org/web/packages/ADMMsigma/index.html.
 
 #### *"ADMMsigma is an R package that estimates a penalized precision matrix via the alternating direction method of multipliers (ADMM) algorithm. It currently supports a general elastic-net penalty that allows for both ridge and lasso-type penalties as special cases."*
 

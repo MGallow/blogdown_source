@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt Galloway</title>
-    <link>https://mgallow.github.io/</link>
+    <link>https://mattxgalloway.com/</link>
     <description>Recent content on Matt Galloway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://mgallow.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mattxgalloway.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://mgallow.github.io/about/</link>
+      <link>https://mattxgalloway.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mgallow.github.io/about/</guid>
-      <description>Previously a consultant at the Institute for Research on Statistics and its Applications (IRSA) and Ph.D. student in statistics at the University of Minnesota. My research was advised by Adam J. Rothman, Ph.D. and broadly related to efficient precision matrix estimation.
-In May 2015, I received my B.S. and B.A. from the University of St. Thomas, St. Paul. I majored in statistics, mathematics, and actuarial science and minored in renaissance.</description>
+      <guid>https://mattxgalloway.com/about/</guid>
+      <description>Previously a consultant at the Institute for Research on Statistics and its Applications (IRSA) and Ph.D. student in statistics at the University of Minnesota. My research was advised by Adam J. Rothman, Ph.D. and broadly related to efficient precision matrix estimation. Currently working as a data scientist at C.H. Robinson in the Twin Cities area.
+In May 2015, I received my B.S. and B.A. from the University of St. Thomas, St.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://mgallow.github.io/publications/</link>
+      <link>https://mattxgalloway.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mgallow.github.io/publications/</guid>
-      <description>Galloway, M, and Rothman, A. (2019). Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression. Master’s thesis (preprint). [pdf]
+      <guid>https://mattxgalloway.com/publications/</guid>
+      <description>Galloway, M, and Rothman, A. (2019). Shrinking Characteristics of Precision Matrix Estimators: An Illustration via Regression. Master’s Thesis (preprint). [pdf]
 “In their 2017 paper, Shrinking Characteristics of Precision Matrix Estimators, Molstad and Rothman propose a framework to shrink a user-specified precision matrix characteristic needed to fit a predictive model. Inspired by Fisher’s LDA and its unique classification characteristic, this framework also has applications to multivariate regression and allows for many novel precision matrix estimators.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://mgallow.github.io/research/</link>
+      <link>https://mattxgalloway.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mgallow.github.io/research/</guid>
+      <guid>https://mattxgalloway.com/research/</guid>
       <description>My research interests include statistical machine learning, multivariate analysis, precision matrix estimation, sufficient dimension reduction, and kernel methods (among others).
 R Packages ADMMsigma Estimates a penalized precision matrix via the alternating direction method of multipliers (ADMM) algorithm.
  GLASSOO Estimates a penalized precision matrix via block-wise coordinate descent – also known as the graphical lasso (glasso) algorithm.

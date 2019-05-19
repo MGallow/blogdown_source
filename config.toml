@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://mgallow.github.io/" 
+baseurl = "https://mattxgalloway.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -8,7 +8,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 contentdir = "content"
 layoutdir = "layouts"
-#publishdir = "../MGallow.github.io"
+#publishdir = "../mattxgalloway.com"
 
 author = "Matt Galloway"
 title = "Matt Galloway"
@@ -43,7 +43,7 @@ twitter = "MCGallow"
 #facebook = "<username>"
 #google = "<username>"
 #stackoverflow = "<username>"
-email = "gall0441@umn.edu"
+email = "mattxgalloway@gmail.com"
 
 ## Extras
 [params.extra]

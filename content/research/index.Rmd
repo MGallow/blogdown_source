@@ -15,31 +15,31 @@ My research interests include statistical machine learning, multivariate analysi
 
 ## R Packages
 
-### [ADMMsigma](https://mgallow.github.io/ADMMsigma/)
+### [ADMMsigma](https://mattxgalloway.com/ADMMsigma/)
 
 Estimates a penalized precision matrix via the alternating direction method of multipliers (ADMM) algorithm.
 
-<!-- ### [Omega](https://mgallow.github.io/Omega/) -->
+<!-- ### [Omega](https://mattxgalloway.com/Omega/) -->
 
 <!-- Estimates a penalized precision matrix via various estimation methods. OMEGA combines ADMMsigma and GLASSOO (along with other estimation methods) into a complete package. -->
 
-### [GLASSOO](https://mgallow.github.io/GLASSOO/)
+### [GLASSOO](https://mattxgalloway.com/GLASSOO/)
 
 Estimates a penalized precision matrix via block-wise coordinate descent -- also known as the graphical lasso (glasso) algorithm.
 
-### [SCPME](https://mgallow.github.io/SCPME/)
+### [SCPME](https://mattxgalloway.com/SCPME/)
 
 An implementation of the methods described in "Shrinking Characteristics of Precision Matrix Estimators" [pdf](https://doi.org/10.1093/biomet/asy023) by Aaron J. Molstad, Ph.D and Adam J. Rothman, Ph.D.
 
-### [CVglasso](https://mgallow.github.io/CVglasso/)
+### [CVglasso](https://mattxgalloway.com/CVglasso/)
 
 Estimates a penalized precision matrix. This package is a simple wrapper around the popular 'glasso' package and extends and enhances its capabilities.
 
-### [logitr](https://mgallow.github.io/logitr/)
+### [logitr](https://mattxgalloway.com/logitr/)
 
 A package for linear and logistic regression with optional ridge and bridge regularization penalties.
 
-### [statr](https://mgallow.github.io/statr/)
+### [statr](https://mattxgalloway.com/statr/)
 
 A personal R package that I have created for organization/convenience purposes.
 
